@@ -1,2 +1,0 @@
-# WTTDexercicios
-Exercícios do WTTD
